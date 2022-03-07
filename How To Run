@@ -1,2 +1,2 @@
 Required packages for server side: Express
-Required packages for client side: React, react-router-dom@6(v6), React-icons, react-scripts, axios
+Required packages for client side: React, react-router-dom@6(v6), React-icons, react-scripts, @mui/material, @emotion/react, @emotion/styled, axios
